@@ -1,1 +1,1 @@
-# Activity_1.2_TheShell_Python
+# Activity 1.2 - The Shell
